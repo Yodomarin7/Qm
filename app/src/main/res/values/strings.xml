@@ -1,0 +1,72 @@
+<resources>
+    <string name="app_name">Qm</string>
+    <string name="profile">Профиль</string>
+    <string name="contact">Контакт</string>
+    <string name="contracts">Договоры займа</string>
+    <string name="logout">Выйти</string>
+    <string name="currency">Валюта</string>
+
+    <string name="by_name">По валюте</string>
+    <string name="by_sum">По сумме</string>
+
+    <string name="tag_friend">Отметить друга</string>
+    <string name="edit">Редактировать</string>
+    <string name="delete">Удалить</string>
+
+    <string name="add_new_contact">Доавить контакт</string>
+    <string name="options_menu">Меню опций</string>
+    <string name="selecting">Выбран</string>
+    <string name="sorting">Сортировка</string>
+    <string name="search">Найти</string>
+    <string name="clear">Очистить</string>
+
+    <string name="load_data">Загрузка данных…</string>
+    <string name="save_data">Сохранение данных…</string>
+    <string name="processing_data">Обработка данных…</string>
+
+    <string name="success_saved_data">Данные успешно сохранены…</string>
+
+    <string name="error">Ошибка</string>
+    <string name="not_login">Вы не авторизованы (нажмите "назад")</string>
+    <string name="error_try_again">Ошибка, попробуйте ещё раз…</string>
+
+    <string name="try_again">Ещё раз</string>
+    <string name="cancel">Отмена</string>
+    <string name="add">Добавить</string>
+    <string name="back">Назад</string>
+
+    <string name="first_name">Имя</string>
+    <string name="last_name">Фамилия</string>
+    <string name="enter_your_first_name">Введите имя</string>
+    <string name="enter_your_last_name">Введите фамилию</string>
+    <string name="enter_your_currency">Выберите валюту</string>
+    <string name="currency_name_not_must_more_9">Валюта не должен быть больше 9ти символов</string>
+    <string name="first_name_not_must_more_16">Имя не должен быть больше 16ти символов</string>
+    <string name="last_name_not_must_more_16">Фамилия не должна быть больше 16ти символов</string>
+    <string name="not_found">Не найден</string>
+    <string name="select_one">Выберите один из вариантов</string>
+    <string name="correct">Корректно</string>
+
+    <string name="AED">Дирхам ОАЭ</string>
+    <string name="AMD">Армянский драм</string>
+    <string name="AZN">Азербайджанский манат</string>
+    <string name="BYN">Белорусский рубль</string>
+    <string name="CAD">Канадский доллар</string>
+    <string name="CHF">Швейцарский франк</string>
+    <string name="CNY">Китайский юань</string>
+    <string name="EUR">Евро</string>
+    <string name="GBP">Британский фунт стерлингов</string>
+    <string name="GEL">Грузинский лари</string>
+    <string name="HKD">Гонконгский доллар</string>
+    <string name="IDR">Индонезийская рупия</string>
+    <string name="INR">Индийская рупия</string>
+    <string name="JPY">Японская иена</string>
+    <string name="KGS">Киргизский сом</string>
+    <string name="KZT">Казахстанский тенге</string>
+    <string name="RUB">Российский рубль</string>
+    <string name="TJS">Таджикский сомони</string>
+    <string name="TRY">Турецкая лира</string>
+    <string name="UAH">Украинская гривна</string>
+    <string name="USD">Доллар США</string>
+    <string name="UZS">Узбекский сом</string>
+</resources>
